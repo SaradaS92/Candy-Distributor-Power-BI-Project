@@ -10,11 +10,15 @@ The key objectives of this analysis include:
 Sales Performance Analysis
 •	Identifying top-performing candies and using Pareto Analysis to understand their contribution to total revenue.
 •	Tracking sales trends over time. 
+
 Understanding Retailer & Customer Demand
 •	Identifying peak sales periods to optimize stock distribution and analyzing regional and seasonal demand to ensure consistent supply of high-demand products.
+
 Understanding Customer Preferences
 •	Tracking purchasing patterns to identify frequently bought products and analyzing customer preferences to introduce new offerings.
+
 Operational Efficiency
 •	Evaluating peak sales periods to optimize production and to improve efficiency during high-demand periods.
+
 Region-Wise Analysis
 •	Comparing sales performance across different store locations or regions to gain an understanding of product popularity over different regions.
